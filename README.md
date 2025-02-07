@@ -10,7 +10,6 @@ Welcome to my repository for the Data Analytics Bootcamp! This repo contains ass
   - [Installation](#installation)
 - [Projects](#projects)
 - [Usage](#usage)
-- [License](#license)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgements)
 
@@ -48,10 +47,6 @@ Boot camp projects uploaded individually.
 ## Usage
 
 Jupyter Notebooks: Open the notebooks in the notebooks/ folder using Jupyter Notebook or JupyterLab to explore data analyses
-
-## License 
-
-This project is licensed under the MIT license. 
 
 ## Contact
 
