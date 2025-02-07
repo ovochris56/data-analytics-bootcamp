@@ -55,8 +55,9 @@ This project is licensed under the MIT license.
 
 ## Contact
 
-email: cfontes721@gmail.com
-LinkedIn: https://www.linkedin.com/in/christopher-fontes-38b55269/details/featured/
+- email: cfontes721@gmail.com
+
+- LinkedIn: https://www.linkedin.com/in/christopher-fontes-38b55269/details/featured/
 
 ## Acknowledgements
 
