@@ -41,24 +41,24 @@ Before running the code, ensure you have the following installed:
    ```bash
    git clone https://github.com/ovochris56/data-analytics-bootcamp
 
-##Projects
+## Projects
 
 Boot camp projects uploaded individually.
 
-##Usage
+## Usage
 
 Jupyter Notebooks: Open the notebooks in the notebooks/ folder using Jupyter Notebook or JupyterLab to explore data analyses
 
-##License 
+## License 
 
 This project is licensed under the MIT license. 
 
-##Contact
+## Contact
 
 email: cfontes721@gmail.com
 LinkedIn: https://www.linkedin.com/in/christopher-fontes-38b55269/details/featured/
 
-##Acknowledgements
+## Acknowledgements
 
 - Datacamp
 - Kaggle
